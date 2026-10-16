@@ -1,0 +1,6 @@
+{
+  "name": "B.I Books - Online Bookstore Catalog & Events",
+  "description": "Discover bookstore inventory, academic guides, and literary events at B.I Books, founded by veteran educator and publisher Dr. Ratan Ghosh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
